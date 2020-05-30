@@ -75,6 +75,7 @@ jobs:
           CONFIG_TARGET_x86=y
           CONFIG_TARGET_x86_64=y
           CONFIG_TARGET_x86_64_Generic=y
+          CONFIG_TARGET_ROOTFS_PARTSIZE=450
           EOF
 
           # 固件压缩:
